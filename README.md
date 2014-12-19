@@ -1,4 +1,4 @@
 Regenera
 ========
-O projeto Regenera é composto de diversos dispositivos e recursos que tem como objetivo cuidar de um jardim.
-O Regenera é composto e gerenciado pela PINN, uma inteligencia artificial desenvolvida por mim.
+O projeto Regenera é composto dispositivos que tem como objetivo cuidar de um ambiente isolado.
+O Regenera é composto e gerenciado pela PINN, uma inteligencia artificial ainda em desenvolvimento,que por meio de interfaces (Arduino <==> Raspberry Pi), irá aprender como o meio ambiente de desenvolve.
