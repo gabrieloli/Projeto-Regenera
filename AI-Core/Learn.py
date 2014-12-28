@@ -7,9 +7,8 @@ comma = raw_input(">>>")
 if comma == '1':
 	enter = raw_input("Input:")
 	enter_to = raw_input("to:")
-	blank = ' '
-	to_write_on_file = enter + blank + enter_to
-	to_write_on_file_inverse = enter_to + blank + enter
+	to_write_on_file = enter + ' ' + enter_to
+	to_write_on_file_inverse = enter_to + ' ' + enter
 	if enter in open('brain.txt').read():
 		print("String already in file")
 
